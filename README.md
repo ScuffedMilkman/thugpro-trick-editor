@@ -9,12 +9,6 @@ file (`.SKA`), without clicking through the in-game menus.
    [latest release](https://github.com/ScuffedMilkman/thugpro-trick-editor/releases/latest).
 2. Close THUG Pro, then double-click the .exe. It opens a skater from your save folder.
 
-It's a single file: no install, no Python, nothing else to download. To edit a specific `.SKA`,
-drag it onto the .exe or use **Open .SKA…** inside the app.
-
-> **Back up your `.SKA` files before editing.** The app makes a backup every time it saves,
-> but your own copy is the safest way back.
-
 ## Features
 
 - **Special Tricks**: all 12 slots. Pick the type (grind, manual, air, lip), the trick, and the
@@ -46,12 +40,6 @@ THUG Pro keeps skater saves in `%LOCALAPPDATA%\THUG Pro\Save`. If yours are some
 click the **?** button next to **Open .SKA…** and choose **Change…**. The choice is stored in
 `%APPDATA%\THUG Pro Trick Editor\settings.json`; **Use default** puts it back.
 
-## Good to know
-
-- A save holds up to 10 created tricks. Created tricks are stored per save file.
-- Some edits make the save data a few bytes larger or smaller (for example setting a lip slot that
-  was on Default). The checksums and file size stay valid, but it's worth checking such a save in
-  game once.
 
 ## Building from source
 
