@@ -3,6 +3,8 @@
 A Windows desktop app for editing the tricks of a custom skater in a THUG Pro save
 file (`.SKA`), without clicking through the in-game menus.
 
+![THUG Pro Trick Editor showing the Special Tricks tab](docs/screenshot.png)
+
 ## Download and run
 
 1. Download `THUG.Pro.Trick.Editor.exe` from the
