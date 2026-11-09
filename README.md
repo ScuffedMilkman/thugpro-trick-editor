@@ -5,7 +5,7 @@ file (`.SKA`), without clicking through the in-game menus.
 
 ## Download and run
 
-1. Download `THUG Pro Trick Editor.exe` from the
+1. Download `THUG.Pro.Trick.Editor.exe` from the
    [latest release](https://github.com/ScuffedMilkman/thugpro-trick-editor/releases/latest).
 2. Close THUG Pro, then double-click the .exe. It opens a skater from your save folder.
 
