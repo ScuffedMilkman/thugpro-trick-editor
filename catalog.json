@@ -1,0 +1,1321 @@
+{
+ "source": "Extracted from THUG Pro data/pre/thugpro_qb.prx",
+ "tricks": [
+  {
+   "id": "Trick_1234",
+   "name": "1-2-3-4",
+   "type": "flip"
+  },
+  {
+   "id": "Trick_GhettoBird",
+   "name": "360 Ghetto Bird",
+   "type": "flip"
+  },
+  {
+   "id": "Trick_540varielheelfliplien",
+   "name": "360 Varial Heelflip Lien",
+   "type": "flip"
+  },
+  {
+   "id": "Trick_360VarialMcTwist",
+   "name": "360 Varial McTwist",
+   "type": "flip"
+  },
+  {
+   "id": "Trick_540BoardVarial",
+   "name": "540 Board Varial",
+   "type": "flip"
+  },
+  {
+   "id": "Trick_540Flip",
+   "name": "540 Flip",
+   "type": "flip"
+  },
+  {
+   "id": "Trick_540TailWhip",
+   "name": "540 TailWhip",
+   "type": "flip"
+  },
+  {
+   "id": "Trick_BreakIn",
+   "name": "Back Spin Air",
+   "type": "flip"
+  },
+  {
+   "id": "Trick_BeaverBlast",
+   "name": "Beaver Blast",
+   "type": "flip"
+  },
+  {
+   "id": "Trick_BoardSnap",
+   "name": "Board Snap",
+   "type": "flip"
+  },
+  {
+   "id": "Trick_DoubleKFindy",
+   "name": "Double Kickflip Varial Indy",
+   "type": "flip"
+  },
+  {
+   "id": "Trick_FingerFlipAirwalk",
+   "name": "Fingerflip Airwalk",
+   "type": "flip"
+  },
+  {
+   "id": "Trick_FS540",
+   "name": "FS 540",
+   "type": "flip"
+  },
+  {
+   "id": "Trick_Gazelle",
+   "name": "Gazelle Underflip",
+   "type": "flip"
+  },
+  {
+   "id": "Trick_HalfCabUnderFlip",
+   "name": "HalfCab UnderFlip",
+   "type": "flip"
+  },
+  {
+   "id": "Trick_HardFlipBackFootFlip",
+   "name": "Hardflip Late Flip",
+   "type": "flip"
+  },
+  {
+   "id": "Trick_HeadKickBackFlip",
+   "name": "HeadKick BackFlip",
+   "type": "flip"
+  },
+  {
+   "id": "Trick_Indy900",
+   "name": "Indy 900",
+   "type": "flip"
+  },
+  {
+   "id": "Trick_KFBackflip",
+   "name": "Kickflip Backflip",
+   "type": "flip"
+  },
+  {
+   "id": "Trick_KickFlipUnderFlip",
+   "name": "Kickflip Underflip",
+   "type": "flip"
+  },
+  {
+   "id": "Trick_LayoutFlip",
+   "name": "Layout Flip",
+   "type": "flip"
+  },
+  {
+   "id": "Trick_McTwist",
+   "name": "McTwist",
+   "type": "flip"
+  },
+  {
+   "id": "Trick_Mistyflip",
+   "name": "Misty Flip",
+   "type": "flip"
+  },
+  {
+   "id": "Trick_Koston900",
+   "name": "No Problem 900",
+   "type": "flip"
+  },
+  {
+   "id": "Trick_NollieFlipUnderflip",
+   "name": "Nollie Flip Underflip",
+   "type": "flip"
+  },
+  {
+   "id": "Trick_QuadrupleHeelFlip",
+   "name": "Quad Heelflip",
+   "type": "flip"
+  },
+  {
+   "id": "Trick_flipflip",
+   "name": "Rodeo Wrap",
+   "type": "flip"
+  },
+  {
+   "id": "Trick_Rotisserie",
+   "name": "Rotisserie",
+   "type": "flip"
+  },
+  {
+   "id": "Trick_Solute",
+   "name": "Salute",
+   "type": "flip"
+  },
+  {
+   "id": "Trick_SemiFlip",
+   "name": "Semi Flip",
+   "type": "flip"
+  },
+  {
+   "id": "Trick_The900",
+   "name": "The 900",
+   "type": "flip"
+  },
+  {
+   "id": "Trick_Jackass",
+   "name": "The Jackass",
+   "type": "flip"
+  },
+  {
+   "id": "Trick_FSFlipOneFootTailGrab",
+   "name": "360 Flip Tail Grab",
+   "type": "grab"
+  },
+  {
+   "id": "Trick_AssumePosition",
+   "name": "Assume The Position II",
+   "type": "grab"
+  },
+  {
+   "id": "Trick_BamBendAir",
+   "name": "Bam Bend Air",
+   "type": "grab"
+  },
+  {
+   "id": "Trick_BigSpinShifty",
+   "name": "BigSpin Shifty",
+   "type": "grab"
+  },
+  {
+   "id": "Trick_BootBurst",
+   "name": "Boot Burst",
+   "type": "grab"
+  },
+  {
+   "id": "Trick_AirCasperFlip",
+   "name": "Casper Flip 360 Flip",
+   "type": "grab"
+  },
+  {
+   "id": "Trick_ChompOnThis",
+   "name": "Chomp On This",
+   "type": "grab"
+  },
+  {
+   "id": "Trick_DarksideJapan",
+   "name": "Darkside Japan",
+   "type": "grab"
+  },
+  {
+   "id": "Trick_HoagieGrab",
+   "name": "Dont Feed Phil",
+   "type": "grab"
+  },
+  {
+   "id": "Trick_DoubleFistin",
+   "name": "Double Fistin",
+   "type": "grab"
+  },
+  {
+   "id": "Trick_2KickMadonnaFlip",
+   "name": "Double Kickflip Madonna",
+   "type": "grab"
+  },
+  {
+   "id": "Trick_EndlessHandflip",
+   "name": "Endless Handflip",
+   "type": "grab"
+  },
+  {
+   "id": "Trick_EndlessKickflip",
+   "name": "Endless Kickflip",
+   "type": "grab"
+  },
+  {
+   "id": "Trick_Flamingo",
+   "name": "Flamingo",
+   "type": "grab"
+  },
+  {
+   "id": "Trick_FlyingSquirrel",
+   "name": "Flying Squirrel",
+   "type": "grab"
+  },
+  {
+   "id": "Trick_LickItUp",
+   "name": "Lick It Up",
+   "type": "grab"
+  },
+  {
+   "id": "Trick_SambaFlip",
+   "name": "Samba Flip",
+   "type": "grab"
+  },
+  {
+   "id": "Trick_ShecklerGrab",
+   "name": "Sheckler Grab",
+   "type": "grab"
+  },
+  {
+   "id": "Trick_Shifty360ShovitBSShifty",
+   "name": "Shifty Shifty",
+   "type": "grab"
+  },
+  {
+   "id": "Trick_SitDownAir",
+   "name": "Sit Down Air",
+   "type": "grab"
+  },
+  {
+   "id": "Trick_3DSwimAir",
+   "name": "Swimmer",
+   "type": "grab"
+  },
+  {
+   "id": "Trick_360ShovitNoseGrind",
+   "name": "360 Shove-It NoseGrind",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_50Fingerflip",
+   "name": "5-0 Fingerflip Nosegrind",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_FiftyfiftySwitcheroo",
+   "name": "5050 Switcheroo",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_AmericanHeroGrind",
+   "name": "American Tribute",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_BigHitter",
+   "name": "Big Hitter II",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_BiteBoard",
+   "name": "Bite Board",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_RockNRollSwitch",
+   "name": "Boardslide Bodyvarial",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_Bam_Chainsaw",
+   "name": "Chainsaw Rocker Grind",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_Coffin",
+   "name": "Coffin",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_CrookedBigSpinFlip",
+   "name": "Crook BigSpinFlip Crook",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_HCNHDF",
+   "name": "Crooks DarkSlide",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_DaffyBrokenGrind",
+   "name": "Daffy Grind",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_RowleyDarkSlideHandStand",
+   "name": "Darkslide Handstand",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_ElbowSmash",
+   "name": "Elbow Smash",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_EndlessGrind",
+   "name": "Endless Kickflip",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_BullF_Sword",
+   "name": "Espana Sword Slide",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_GuitarSlide",
+   "name": "Faction Guitar Slide",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_Fandangle",
+   "name": "Fandangle",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_BlastGrind",
+   "name": "Fire Blaster",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_Flames",
+   "name": "Fire Fire Fire",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_FlipKickDad",
+   "name": "Flip Kick Dad",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_Franklin_grind",
+   "name": "Franklin Grind",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_SprayPaintGrind",
+   "name": "Ghetto Tag Grind",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_GrindNBarf",
+   "name": "Grind N Barf",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_Handstand5050",
+   "name": "Handstand 50-50",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_Hero",
+   "name": "Hero",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_FeebleLayback",
+   "name": "Layback Sparks",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_MoonwalkGrind",
+   "name": "Moonwalk Five-O",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_Muska_Burn",
+   "name": "Muska 5-0 Flames",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_FSNollie360FlipCrook",
+   "name": "Nollie 360Flip Crook",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_NoseSlideLipSlide",
+   "name": "Noseslide Lipslide",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_OneFootDarkSlide",
+   "name": "One Foot Darkslide",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_OneFootSmith",
+   "name": "One Foot Smith",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_PrimoHandStand",
+   "name": "Primo Handstand",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_RodneyGrind",
+   "name": "Rodney Primo",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_RowleyDarkSlide",
+   "name": "Rowley Darkslide",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_3DScaryGrind",
+   "name": "Scary Grind",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_CrookedSkull",
+   "name": "Skull Grind",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_Shortbus",
+   "name": "Stupid Grind",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_ShecklerPrimo",
+   "name": "Swimming with Sharks",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_TailblockSlide",
+   "name": "Tailblock Slide",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_TheBird",
+   "name": "The Bird",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_WaxSlide",
+   "name": "Wax Slide",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_Worm",
+   "name": "Worm Grind",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_YeaRightSlide",
+   "name": "Yeah Right Slide",
+   "type": "grind"
+  },
+  {
+   "id": "Trick_1990Invert",
+   "name": "1990 Invert",
+   "type": "lip"
+  },
+  {
+   "id": "Trick_Around",
+   "name": "Around The World",
+   "type": "lip"
+  },
+  {
+   "id": "Trick_BamLip",
+   "name": "BAM",
+   "type": "lip"
+  },
+  {
+   "id": "Trick_HeelflipFSInvert",
+   "name": "Heelflip FS Invert",
+   "type": "lip"
+  },
+  {
+   "id": "Trick_HoHoSadplant",
+   "name": "Ho Ho Sad Plant",
+   "type": "lip"
+  },
+  {
+   "id": "Trick_Russian",
+   "name": "Russian Boneless",
+   "type": "lip"
+  },
+  {
+   "id": "Trick_DanceParty",
+   "name": "Ahhh yeahhh!",
+   "type": "manual"
+  },
+  {
+   "id": "Trick_Boomerang",
+   "name": "Boomerang",
+   "type": "manual"
+  },
+  {
+   "id": "Trick_HandStandCasper",
+   "name": "Casper Handstand",
+   "type": "manual"
+  },
+  {
+   "id": "Trick_KickflipSwitch",
+   "name": "Flip 2 Switch",
+   "type": "manual"
+  },
+  {
+   "id": "Trick_HangTenManual",
+   "name": "Hang Ten Manual",
+   "type": "manual"
+  },
+  {
+   "id": "Trick_HeadStandManual",
+   "name": "Head Balancer",
+   "type": "manual"
+  },
+  {
+   "id": "Trick_HoHoStreetPlant",
+   "name": "Ho Ho Street Plant",
+   "type": "manual"
+  },
+  {
+   "id": "Trick_HotRod",
+   "name": "Hot Rod",
+   "type": "manual"
+  },
+  {
+   "id": "Trick_JesterJuggle",
+   "name": "Manual Entertainer",
+   "type": "manual"
+  },
+  {
+   "id": "Trick_MixItUp",
+   "name": "Mix It Up",
+   "type": "manual"
+  },
+  {
+   "id": "Trick_MuskaManual",
+   "name": "Muska Manual",
+   "type": "manual"
+  },
+  {
+   "id": "Trick_NoComplyLate360",
+   "name": "No Comply 360 Shove-It",
+   "type": "manual"
+  },
+  {
+   "id": "Trick_OneFootOneWheel",
+   "name": "One Wheel Nosemanual",
+   "type": "manual"
+  },
+  {
+   "id": "Trick_Butt_Manual",
+   "name": "Paulie Butt Manual",
+   "type": "manual"
+  },
+  {
+   "id": "Trick_PogoHandstand",
+   "name": "Pogo Handstand",
+   "type": "manual"
+  },
+  {
+   "id": "Trick_PrimoSlide",
+   "name": "Primo",
+   "type": "manual"
+  },
+  {
+   "id": "Trick_PrimoSpin",
+   "name": "Primo Spin",
+   "type": "manual"
+  },
+  {
+   "id": "Trick_ReemoSlide",
+   "name": "Reemo Slide",
+   "type": "manual"
+  },
+  {
+   "id": "Trick_RunningMan",
+   "name": "Running Manual",
+   "type": "manual"
+  },
+  {
+   "id": "Trick_RustySlide",
+   "name": "Rusty Slide Manual",
+   "type": "manual"
+  },
+  {
+   "id": "Trick_SlamSpinner",
+   "name": "Slam Spinner",
+   "type": "manual"
+  },
+  {
+   "id": "Trick_Sproing",
+   "name": "Sproing",
+   "type": "manual"
+  },
+  {
+   "id": "Trick_TonySurfer",
+   "name": "Surfer",
+   "type": "manual"
+  },
+  {
+   "id": "Trick_Scanning",
+   "name": "The Scanner",
+   "type": "manual"
+  },
+  {
+   "id": "Trick_WormManual",
+   "name": "The Worm",
+   "type": "manual"
+  },
+  {
+   "id": "Trick_YeahRight",
+   "name": "Yeah Right",
+   "type": "manual"
+  }
+ ],
+ "standard": [
+  {
+   "id": "Trick_180Varial",
+   "name": "180 Varial",
+   "type": "flip",
+   "extra": "360 Varial"
+  },
+  {
+   "id": "Trick_Airwalk",
+   "name": "Airwalk",
+   "type": "grab",
+   "extra": "Christ Air"
+  },
+  {
+   "id": "Trick_AndrectInvert",
+   "name": "Andrecht Invert",
+   "type": "lip",
+   "extra": null
+  },
+  {
+   "id": "Trick_Axlestall",
+   "name": "Axle Stall",
+   "type": "lip",
+   "extra": null
+  },
+  {
+   "id": "Trick_BackfootHeelflip",
+   "name": "Back Foot Heelflip",
+   "type": "flip",
+   "extra": null
+  },
+  {
+   "id": "Trick_BackFootKickflip",
+   "name": "Back Foot Kickflip",
+   "type": "flip",
+   "extra": null
+  },
+  {
+   "id": "Trick_BackfootShoveIt",
+   "name": "Back Foot Shove-It",
+   "type": "flip",
+   "extra": null
+  },
+  {
+   "id": "Trick_BarrelRoll",
+   "name": "Barrel Roll",
+   "type": "flip",
+   "extra": null
+  },
+  {
+   "id": "Trick_Benihana",
+   "name": "Benihana",
+   "type": "grab",
+   "extra": null
+  },
+  {
+   "id": "Trick_BigSpinFlip",
+   "name": "Bigspin Flip",
+   "type": "flip",
+   "extra": null
+  },
+  {
+   "id": "Trick_Blunt",
+   "name": "Blunt to Fakie",
+   "type": "lip",
+   "extra": null
+  },
+  {
+   "id": "Trick_FSBigSpin",
+   "name": "BS Bigspin",
+   "type": "flip",
+   "extra": null
+  },
+  {
+   "id": "Trick_BSFootplant",
+   "name": "BS Boneless",
+   "type": "lip",
+   "extra": null
+  },
+  {
+   "id": "Trick_BSFlip",
+   "name": "BS Flip",
+   "type": "flip",
+   "extra": null
+  },
+  {
+   "id": "Trick_Cannonball",
+   "name": "Cannonball",
+   "type": "grab",
+   "extra": null
+  },
+  {
+   "id": "Trick_Crail",
+   "name": "Crail Grab",
+   "type": "grab",
+   "extra": null
+  },
+  {
+   "id": "Trick_Crossbone",
+   "name": "Crossbone",
+   "type": "grab",
+   "extra": "CrookedCop"
+  },
+  {
+   "id": "Trick_Disaster",
+   "name": "Disaster",
+   "type": "lip",
+   "extra": null
+  },
+  {
+   "id": "Trick_Eggplant",
+   "name": "Eggplant",
+   "type": "lip",
+   "extra": null
+  },
+  {
+   "id": "Trick_Fingerflip",
+   "name": "Fingerflip",
+   "type": "flip",
+   "extra": null
+  },
+  {
+   "id": "Trick_FFImpossible",
+   "name": "Front Foot Impossible",
+   "type": "flip",
+   "extra": null
+  },
+  {
+   "id": "Trick_BSBigSpin",
+   "name": "FS Bigspin",
+   "type": "flip",
+   "extra": null
+  },
+  {
+   "id": "Trick_FSFlip",
+   "name": "FS Flip",
+   "type": "flip",
+   "extra": null
+  },
+  {
+   "id": "Trick_Noseblunt",
+   "name": "FS Noseblunt",
+   "type": "lip",
+   "extra": null
+  },
+  {
+   "id": "Trick_Nosepick",
+   "name": "FS Nosepick",
+   "type": "lip",
+   "extra": null
+  },
+  {
+   "id": "Trick_FSShifty",
+   "name": "FS Shifty",
+   "type": "grab",
+   "extra": null
+  },
+  {
+   "id": "Trick_FSShoveIt",
+   "name": "FS Shove-It",
+   "type": "flip",
+   "extra": null
+  },
+  {
+   "id": "Trick_GymnastPlant",
+   "name": "Gymnast Plant",
+   "type": "lip",
+   "extra": null
+  },
+  {
+   "id": "Trick_Hardflip",
+   "name": "Hardflip",
+   "type": "flip",
+   "extra": null
+  },
+  {
+   "id": "Trick_HFVarialLien",
+   "name": "Heelflip Varial Lien",
+   "type": "flip",
+   "extra": null
+  },
+  {
+   "id": "Trick_Heelflip",
+   "name": "Heelflip",
+   "type": "flip",
+   "extra": null
+  },
+  {
+   "id": "Trick_Impossible",
+   "name": "Impossible",
+   "type": "flip",
+   "extra": null
+  },
+  {
+   "id": "Trick_IndyNosebone",
+   "name": "Indy Nosebone",
+   "type": "grab",
+   "extra": "Del Mar Indy"
+  },
+  {
+   "id": "Trick_Indy",
+   "name": "Indy",
+   "type": "grab",
+   "extra": "Stiffy"
+  },
+  {
+   "id": "Trick_MuteInvert",
+   "name": "Invert",
+   "type": "lip",
+   "extra": null
+  },
+  {
+   "id": "Trick_InwardHeelflip",
+   "name": "Inward Heelflip",
+   "type": "flip",
+   "extra": null
+  },
+  {
+   "id": "Trick_Japan",
+   "name": "Japan",
+   "type": "grab",
+   "extra": "One Foot Japan"
+  },
+  {
+   "id": "Trick_Kickflip_NoExtras",
+   "name": "Kickflip (No Extra Tricks)",
+   "type": "flip",
+   "extra": null
+  },
+  {
+   "id": "Trick_Kickflip",
+   "name": "Kickflip",
+   "type": "flip",
+   "extra": null
+  },
+  {
+   "id": "Trick_Madonna",
+   "name": "Madonna",
+   "type": "grab",
+   "extra": "Judo"
+  },
+  {
+   "id": "Trick_Melon",
+   "name": "Melon",
+   "type": "grab",
+   "extra": "Method"
+  },
+  {
+   "id": "Trick_Mute",
+   "name": "Mute",
+   "type": "grab",
+   "extra": "Seatbelt Air"
+  },
+  {
+   "id": "Trick_MadonnaNoHands",
+   "name": "No Handed Madonna",
+   "type": "grab",
+   "extra": null
+  },
+  {
+   "id": "Trick_Nosegrab",
+   "name": "Nosegrab",
+   "type": "grab",
+   "extra": "Rocket Air"
+  },
+  {
+   "id": "Trick_OldSkoolKickflip",
+   "name": "Old Sk00l Kickflip",
+   "type": "flip",
+   "extra": null
+  },
+  {
+   "id": "Trick_OllieAirwalk",
+   "name": "Ollie Airwalk",
+   "type": "flip",
+   "extra": null
+  },
+  {
+   "id": "Trick_OllieNorth",
+   "name": "Ollie North",
+   "type": "flip",
+   "extra": null
+  },
+  {
+   "id": "Trick_OneFootInvert",
+   "name": "One Foot Invert",
+   "type": "lip",
+   "extra": null
+  },
+  {
+   "id": "Trick_PopShoveIt",
+   "name": "Pop Shove-It",
+   "type": "flip",
+   "extra": null
+  },
+  {
+   "id": "Trick_Roastbeef",
+   "name": "Roastbeef",
+   "type": "grab",
+   "extra": null
+  },
+  {
+   "id": "Trick_RockToFakie",
+   "name": "Rock to Fakie",
+   "type": "lip",
+   "extra": null
+  },
+  {
+   "id": "Trick_SalFlip",
+   "name": "Sal Flip",
+   "type": "flip",
+   "extra": null
+  },
+  {
+   "id": "Trick_Stalefish",
+   "name": "Stalefish",
+   "type": "grab",
+   "extra": "Stalefish Tweak"
+  },
+  {
+   "id": "Trick_Tailgrab",
+   "name": "Tailgrab",
+   "type": "grab",
+   "extra": "One Foot Tailgrab"
+  },
+  {
+   "id": "Trick_Switcheroo",
+   "name": "The Switcheroo",
+   "type": "lip",
+   "extra": null
+  },
+  {
+   "id": "Trick_VarialHeelflip",
+   "name": "Varial Heelflip",
+   "type": "flip",
+   "extra": null
+  },
+  {
+   "id": "Trick_Invert",
+   "name": "Varial Invert to Fakie",
+   "type": "lip",
+   "extra": null
+  },
+  {
+   "id": "Trick_VarialKickflip",
+   "name": "Varial Kickflip",
+   "type": "flip",
+   "extra": null
+  },
+  {
+   "id": "Trick_Varial",
+   "name": "Varial",
+   "type": "flip",
+   "extra": null
+  },
+  {
+   "id": "Trick_SaranWrap",
+   "name": "Wrap Around",
+   "type": "grab",
+   "extra": "Body Wrap"
+  }
+ ],
+ "lip_presets": {
+  "VertLip": {
+   "Lip_TriangleUL": "Trick_Invert",
+   "Lip_TriangleUR": "Trick_OneFootInvert",
+   "Lip_TriangleDL": "Trick_Blunt",
+   "Lip_TriangleDR": "Trick_BSFootplant",
+   "Lip_TriangleL": "Trick_Disaster",
+   "Lip_TriangleR": "Trick_Axlestall",
+   "Lip_TriangleD": "Trick_MuteInvert",
+   "Lip_TriangleU": "Trick_Eggplant"
+  },
+  "StreetLip": {
+   "Lip_TriangleUL": "Trick_Noseblunt",
+   "Lip_TriangleUR": "Trick_Disaster",
+   "Lip_TriangleDL": "Trick_Blunt",
+   "Lip_TriangleDR": "Trick_MuteInvert",
+   "Lip_TriangleL": "Trick_BSFootplant",
+   "Lip_TriangleR": "Trick_Axlestall",
+   "Lip_TriangleD": "Trick_RockToFakie",
+   "Lip_TriangleU": "Trick_Nosepick"
+  },
+  "HawkLip": {
+   "Lip_TriangleUL": "Trick_AndrectInvert",
+   "Lip_TriangleUR": "Trick_Switcheroo",
+   "Lip_TriangleDL": "Trick_GymnastPlant",
+   "Lip_TriangleDR": "Trick_OneFootInvert",
+   "Lip_TriangleL": "Trick_Invert",
+   "Lip_TriangleR": "Trick_BSFootplant",
+   "Lip_TriangleD": "Trick_MuteInvert",
+   "Lip_TriangleU": "Trick_Noseblunt"
+  }
+ },
+ "names": {
+  "Trick_AndrectInvert": "Andrecht Invert",
+  "Trick_Axlestall": "Axle Stall",
+  "Trick_BSFootplant": "BS Boneless",
+  "Trick_Blunt": "Blunt to Fakie",
+  "Trick_Boneless": "Boneless",
+  "Trick_Disaster": "Disaster",
+  "Trick_Eggplant": "Eggplant",
+  "Trick_Fastplant": "Fastplant",
+  "Trick_GymnastPlant": "Gymnast Plant",
+  "Trick_Invert": "Varial Invert to Fakie",
+  "Trick_MuteInvert": "Invert",
+  "Trick_Noseblunt": "FS Noseblunt",
+  "Trick_Nosepick": "FS Nosepick",
+  "Trick_OneFootInvert": "One Foot Invert",
+  "Trick_RockToFakie": "Rock to Fakie",
+  "Trick_Switcheroo": "The Switcheroo"
+ },
+ "compress8": [
+  "skater_m_lower_legs",
+  "skater_m_head",
+  "skater_m_torso",
+  "skater_m_legs",
+  "skater_m_hair",
+  "skater_m_backpack",
+  "skater_m_jaw",
+  "kneepads",
+  "socks",
+  "elbowpads",
+  "skater_f_head",
+  "skater_f_torso",
+  "skater_f_legs",
+  "skater_f_hair",
+  "skater_f_backpack",
+  "skater_m_lower_legs",
+  "skater_m_hat_hair",
+  "part",
+  "skater_m_hands",
+  "chest_tattoo",
+  "back_tattoo",
+  "left_forearm_tattoo",
+  "right_forearm_tattoo",
+  "left_bicep_tattoo",
+  "left_leg_tattoo",
+  "right_leg_tattoo",
+  "use_default_scale",
+  "right_bicep_tattoo",
+  "skin",
+  "value",
+  "desc_id",
+  "h",
+  "s",
+  "v",
+  "use_default_hsv",
+  "skater_f_lower_legs",
+  "skater_f_hat_hair",
+  "scale",
+  "skater_f_hands",
+  "display_name",
+  "stance",
+  "pushstyle",
+  "profile",
+  "Name",
+  "trickstyle",
+  "age",
+  "is_pro",
+  "hometown",
+  "is_locked",
+  "is_head_locked",
+  "points_available",
+  "AIR",
+  "Run",
+  "Ollie",
+  "speed",
+  "spin",
+  "switch",
+  "rail_balance",
+  "lip_balance",
+  "manual_balance",
+  "sponsors",
+  "trick_mapping",
+  "default_trick_mapping",
+  "max_specials",
+  "specials",
+  "Air_CircleD",
+  "Air_CircleDL",
+  "Air_CircleDR",
+  "Air_CircleL",
+  "Air_CircleR",
+  "Air_CircleU",
+  "Air_CircleUL",
+  "Air_CircleUR",
+  "Air_D_D_Circle",
+  "Air_D_D_Square",
+  "Air_L_L_Circle",
+  "Air_L_L_Square",
+  "Air_R_R_Circle",
+  "Air_R_R_Square",
+  "Air_SquareD",
+  "Air_SquareDL",
+  "Air_SquareDR",
+  "Air_SquareL",
+  "Air_SquareR",
+  "Air_SquareU",
+  "Air_SquareUL",
+  "Air_SquareUR",
+  "Air_U_U_Circle",
+  "Air_U_U_Square",
+  "ExtraSlot1",
+  "ExtraSlot2",
+  "JumpSlot",
+  "Lip_TriangleD",
+  "Lip_TriangleDL",
+  "Lip_TriangleDL",
+  "Lip_TriangleDR",
+  "Lip_TriangleDR",
+  "Lip_TriangleL",
+  "Lip_TriangleR",
+  "Lip_TriangleU",
+  "Lip_TriangleUL",
+  "Lip_TriangleUL",
+  "Lip_TriangleUR",
+  "Lip_TriangleUR",
+  "SpAir_D_L_Circle",
+  "SpAir_D_L_Square",
+  "SpAir_D_R_Circle",
+  "SpAir_D_R_Square",
+  "SpAir_D_U_Circle",
+  "SpAir_D_U_Square",
+  "SpAir_L_D_Circle",
+  "SpAir_L_D_Square",
+  "SpAir_L_R_Circle",
+  "SpAir_L_R_Square",
+  "SpAir_L_U_Circle",
+  "SpAir_L_U_Square",
+  "SpAir_R_D_Circle",
+  "SpAir_R_D_Square",
+  "SpAir_R_L_Circle",
+  "SpAir_R_L_Square",
+  "SpAir_R_U_Circle",
+  "SpAir_R_U_Square",
+  "SpAir_U_D_Circle",
+  "SpAir_U_D_Square",
+  "SpAir_U_L_Circle",
+  "SpAir_U_L_Square",
+  "SpAir_U_R_circle",
+  "SpAir_U_R_Square",
+  "SpGrind_D_L_Triangle",
+  "SpGrind_D_R_Triangle",
+  "Spgrind_D_U_Triangle",
+  "SpGrind_L_D_Triangle",
+  "SpGrind_L_R_Triangle",
+  "SpGrind_L_U_Triangle",
+  "SpGrind_R_D_Triangle",
+  "SpGrind_R_L_Triangle",
+  "SpGrind_R_U_Triangle",
+  "SpGrind_U_D_Triangle",
+  "SpGrind_U_L_Triangle",
+  "SpGrind_U_R_Triangle",
+  "SpLip_D_L_Triangle",
+  "SpLip_D_R_Triangle",
+  "Splip_D_U_Triangle",
+  "SpLip_L_D_Triangle",
+  "SpLip_L_R_Triangle",
+  "SpLip_L_U_Triangle",
+  "SpLip_R_D_Triangle",
+  "SpLip_R_L_Triangle",
+  "SpLip_R_U_Triangle",
+  "SpLip_U_D_Triangle",
+  "SpLip_U_L_Triangle",
+  "SpLip_U_R_Triangle",
+  "SpLip_U_U_Triangle",
+  "SpMan_D_L_Triangle",
+  "SpMan_D_R_Triangle",
+  "SpMan_D_U_Triangle",
+  "SpMan_L_D_Triangle",
+  "SpMan_L_R_Triangle",
+  "SpMan_L_U_Triangle",
+  "SpMan_R_D_Triangle",
+  "SpMan_R_L_Triangle",
+  "SpMan_R_U_Triangle",
+  "SpMan_U_D_Triangle",
+  "SpMan_U_L_Triangle",
+  "SpMan_U_R_Triangle",
+  "x",
+  "y",
+  "z",
+  "trickslot",
+  "trickname",
+  "Unassigned",
+  "uv_scale",
+  "uv_rot",
+  "uv_u",
+  "uv_v",
+  "sleeves",
+  "shoes",
+  "front_logo",
+  "back_logo",
+  "glasses",
+  "hat",
+  "helmet",
+  "accessories",
+  "hat_logo",
+  "helmet_logo",
+  "board",
+  "griptape",
+  "deck_graphic",
+  "accessory1",
+  "accessory2",
+  "accessory3",
+  "shoe_laces",
+  "bare_torso",
+  "hasBeaten",
+  "head_tattoo",
+  "custom",
+  "headtop_bone_group",
+  "jaw_bone_group",
+  "nose_bone_group",
+  "head_bone_group",
+  "torso_bone_group",
+  "stomach_bone_group",
+  "upper_arm_bone_group",
+  "lower_arm_bone_group",
+  "hands_bone_group",
+  "upper_left_bone_group",
+  "lower_leg_bone_group",
+  "feet_bone_group",
+  "board_bone_group",
+  "object_scaling",
+  "Regular",
+  "goofy",
+  "never_mongo",
+  "mongo_when_switch",
+  "always_mongo",
+  "street",
+  "vert",
+  "first_name",
+  "skater_index",
+  "default_appearance",
+  "is_male",
+  "flip_speed",
+  "on",
+  "trick",
+  "Dur",
+  "Blend",
+  "From",
+  "Percent",
+  "trickType",
+  "idletime",
+  "Start",
+  "order",
+  "Hold",
+  "Backwards",
+  "deg_dir",
+  "left_eye",
+  "right_eye",
+  "nose",
+  "lips",
+  "width",
+  "height",
+  "GapName",
+  "GapCount",
+  "GapScore",
+  "SkaterStartPos",
+  "SkaterStartDir",
+  "level",
+  "valid",
+  "value",
+  "number",
+  "initials",
+  "win_record"
+ ]
+}

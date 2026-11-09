@@ -1,0 +1,14 @@
+# build output
+*.exe
+build/
+dist/
+*.spec
+__pycache__/
+*.pyc
+
+# never commit saves or backups
+*.SKA
+*.ska
+*.bak
+*.tmp
+TrickEditorBackups/
